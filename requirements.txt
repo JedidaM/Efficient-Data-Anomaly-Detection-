@@ -1,2 +1,5 @@
+To limit the use of external libraries , we will make use of:
 pandas
 matplotlib
+
+To run the main.py script, first ensure that Python is installed on your computer along with the required libraries (as listed above ). These can be installed using pip install numpy matplotlib. You can then run the script in an Integrated Development Environment (IDE) like Visual Studio Code, PyCharm, or Jupyter Notebook. Alternatively, you can execute it from the terminal by navigating to the script's folder and running python main.py . Ensure your Python environment is properly set up in the IDE or terminal for smooth execution.
